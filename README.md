@@ -10,25 +10,29 @@ The app is built with **React Native** and uses **Expo** to run. This makes it e
 
 To get started, follow these steps:
 
-1.  Install the necessary packages:
-    ```bash
-    npm install
-    ```
+1. Install the necessary packages:
 
-2.  Start the project:
-    ```bash
-    npx expo start
-    ```
+   ```bash
+   npm install
+   ```
+
+2. Start the project:
+
+   ```bash
+   npx expo start
+   ```
 
 Once the server is running, you can:
-*   Press **i** to open it on the iOS simulator.
-*   Press **a** to open it on the Android emulator.
-*   Press **w** to open it on the web.
+
+- Press **i** to open it on the iOS simulator.
+- Press **a** to open it on the Android emulator.
+- Press **w** to open it on the web.
 
 ## About the Project
 
 This app is built for the **Network communication in mobile application development W1** class, taught by **Professor Marcin Kacprowicz**.
 
 **Team Members:**
-*   Ataberk Turan (49104)
-*   İsmail Ulaş Daysal (48879)
+
+- Ataberk Turan (49104)
+- İsmail Ulaş Daysal (48879)
